@@ -10,7 +10,7 @@ STM32F0: 	 PB6	  PB7 	 GND	  (ni povezan) 	 3 V
 V Parameter Settings protokola I2C spremenite Speed Mode na Fast. Koliko znaša sedaj frekvenca? ________8MHz______. 
 
 Vse je delovalo po pričakovanju vendar se ni izšlo brez manših zapletov.
-Nismo mogl delat v debagrju in smo mogli vse narediti v sSTM studio ker nismo mogl opklukat Serial wire viewer. 
+Nismo mogl delat v debagrju in smo mogli vse narediti v STM studio, ker nismo mogl opklukat Serial wire viewer. Zato smo večinoma naredili in izmerili s programom STM Studio. 
 Poskusili smo tudi brez pull up uporov in vse je delovalo normalno.
 
 
